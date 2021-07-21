@@ -1,0 +1,23 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0,0,16,16" width="16" height="16">
+        <g>
+          <g
+              data-paper-data='{"isPaintingLayer":true}'
+              fill="none"
+              fill-rule="nonzero"
+              stroke="none"
+              stroke-width="0.5"
+              stroke-linecap="butt"
+              stroke-linejoin="miter"
+              stroke-miterlimit="10"
+              stroke-dasharray=""
+              stroke-dashoffset="0"
+              style="mix-blend-mode: normal;"
+          >
+            <image
+                width="16"
+                height="16"
+                xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJBJREFUOI3VkrERgCAMRb+eDVtYyjgO4CBxABiEARwHS7ewxAoPj4/iWfmr3LvkJUWA36dhUEQC49barP8C4uCqDN027HMmOgsRCaVBJoqSjm14uiDNRZAOps2Rr8pg7B2891ww9g4AsGwTtNYn13BYtole1TIYRTWcCt5IqwSl86sFpe3Vgrt8FtBXfkr6ygfPBTCMYcEqYAAAAABJRU5ErkJggg=="
+            />
+          </g>
+        </g>
+      </svg>
